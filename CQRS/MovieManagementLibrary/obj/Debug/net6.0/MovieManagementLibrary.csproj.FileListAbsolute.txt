@@ -1,0 +1,12 @@
+D:\A_MahmoudElSayed\CleanMediator\CQRS\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_MahmoudElSayed\CleanMediator\CQRS\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.AssemblyInfoInputs.cache
+D:\A_MahmoudElSayed\CleanMediator\CQRS\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.AssemblyInfo.cs
+D:\A_MahmoudElSayed\CleanMediator\CQRS\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.csproj.CoreCompileInputs.cache
+D:\A_MahmoudElSayed\CleanMediator\CQRS\MovieManagementLibrary\bin\Debug\net6.0\MovieManagementLibrary.deps.json
+D:\A_MahmoudElSayed\CleanMediator\CQRS\MovieManagementLibrary\bin\Debug\net6.0\MovieManagementLibrary.dll
+D:\A_MahmoudElSayed\CleanMediator\CQRS\MovieManagementLibrary\bin\Debug\net6.0\MovieManagementLibrary.pdb
+D:\A_MahmoudElSayed\CleanMediator\CQRS\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.csproj.AssemblyReference.cache
+D:\A_MahmoudElSayed\CleanMediator\CQRS\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.dll
+D:\A_MahmoudElSayed\CleanMediator\CQRS\MovieManagementLibrary\obj\Debug\net6.0\refint\MovieManagementLibrary.dll
+D:\A_MahmoudElSayed\CleanMediator\CQRS\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.pdb
+D:\A_MahmoudElSayed\CleanMediator\CQRS\MovieManagementLibrary\obj\Debug\net6.0\ref\MovieManagementLibrary.dll

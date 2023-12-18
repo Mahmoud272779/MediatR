@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FtmgoYmDevvLeDOOTbtOS0fio2YOco35B5722XYtmVpszVXno0a9kqkcZ/7eR6D2gGOfGH/Oy3hxW9Ta5HbASg==",
+  "success": true,
+  "projectFilePath": "D:\\A_MahmoudElSayed\\CleanMediator\\CQRS\\MovieManagementLibrary\\MovieManagementLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\mediatr\\6.0.0\\mediatr.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
